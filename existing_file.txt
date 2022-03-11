@@ -1,1 +1,3 @@
 Example file that is in the directory before being converted to git repo
+
+adding text after having made it a git repo
